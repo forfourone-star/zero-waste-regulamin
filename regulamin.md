@@ -6,6 +6,7 @@
 2. Aplikacja jest usługą cyfrową typu SaaS (Software-as-a-Service) w modelu B2C, skierowaną do konsumentów.
 3. Głównym celem Aplikacji jest zarządzanie domową spiżarnią i lodówką oraz generowanie spersonalizowanych przepisów kulinarnych przy użyciu Sztucznej Inteligencji (AI), w celu minimalizacji marnowania żywności.
 4. Warunkiem korzystania z Aplikacji jest zapoznanie się z niniejszym Regulaminem i jego akceptacja.
+5. Aplikacja jest przeznaczona wyłącznie dla osób pełnoletnich (które ukończyły 18. rok życia). Akceptując niniejszy Regulamin, Użytkownik oświadcza, że spełnia ten warunek.
 
 ## §2. Konto Użytkownika i Funkcja Rodziny (Household)
 
@@ -20,6 +21,7 @@
 2. Treści generowane przez AI (przepisy, plany posiłków, analizy zdjęć paragonów i lodówek) mają charakter wyłącznie informacyjny i pomocniczy.
 3. Usługodawca nie gwarantuje absolutnej bezbłędności algorytmów AI (np. zjawisko tzw. "halucynacji").
 4. **Ważne:** Wygenerowane przepisy nie stanowią porady dietetycznej ani medycznej. Użytkownik jest zobowiązany do samodzielnej weryfikacji przepisów pod kątem zdatności produktów do spożycia, własnych alergii, nietolerancji pokarmowych oraz zasad higieny. Usługodawca nie ponosi odpowiedzialności za szkody na zdrowiu wynikające ze spożycia przygotowanych potraw.
+5. Aplikacja umożliwia generowanie przepisów na napoje alkoholowe. Usługodawca promuje odpowiedzialne spożycie alkoholu. Użytkownik ponosi pełną, wyłączną odpowiedzialność za wszelkie skutki zdrowotne wynikające z przygotowania i spożycia wygenerowanych napojów, w szczególności za potencjalnie niebezpieczne interakcje alkoholu z lekami lub innymi substancjami wskazanymi w zapytaniu do AI.
 
 ## §4. Subskrypcja PRO i Płatności
 
