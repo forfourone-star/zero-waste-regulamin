@@ -39,7 +39,7 @@
 
 1. Działanie Aplikacji uzależnione jest od usług podmiotów trzecich (infrastruktura chmurowa Supabase/AWS, modele AI na OpenRouter). Usługodawca nie ponosi odpowiedzialności za czasowe przerwy w dostępie do funkcji AI wynikające z awarii tych podmiotów.
 2. Aplikacja posiada wbudowane mechanizmy zabezpieczające przed nadużyciami, tzw. Rate Limiting, w tym m.in. twardy limit maksymalnie 5 wywołań AI na Użytkownika co 1 minutę.
-3. Zabrania się sztucznego obciążania infrastruktury, wykorzystywania botów, automatyzacji zapytań do AI czy też prób dekompilacji aplikacji.
+3. Użytkownik ponosi wyłączną odpowiedzialność za treści wprowadzane do Aplikacji, w tym na współdzielone z innymi użytkownikami listy zakupów. Zabrania się wprowadzania treści o charakterze bezprawnym, gróźb, nękania, a także sztucznego obciążania infrastruktury, wykorzystywania botów, automatyzacji zapytań do AI czy też prób dekompilacji aplikacji.
 4. Wykrycie nadużyć mających na celu generowanie gigantycznych kosztów po stronie Usługodawcy skutkować będzie natychmiastową i trwałą blokadą konta Użytkownika.
 
 ## §7. Reklamacje i Postanowienia końcowe
