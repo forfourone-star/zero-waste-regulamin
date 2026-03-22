@@ -3,7 +3,7 @@
 
 ## 1. Administrator Danych
 Administratorem danych osobowych jest Justyna Celmer, prowadząca działalność nierejestrowaną, posługująca się marką "ForFourOne App Development".
-Adres: Chełmica MAła 54 A, 87-811 Włocławk.
+Adres: Chełmica MAła 54 A, 87-811 Fabianki.
 E-mail: forfourone@gmail.com.
 
 ## 2. Jakie dane zbieramy i po co?
