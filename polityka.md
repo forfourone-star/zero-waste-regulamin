@@ -27,7 +27,18 @@ Twoje dane mogą być przetwarzane przez zaufanych partnerów technicznych:
 * Google AdMob: System reklamowy (wymaga Twojej zgody CMP).
 
 ## 6. Twoje Prawa (RODO)
-Masz prawo dostępu do swoich danych, ich sprostowania, usunięcia oraz wycofania zgody na personalizację reklam w dowolnym momencie.
+Użytkownik może w każdej chwili poprosić o usunięcie swojego konta oraz wszystkich powiązanych z nim danych osobowych. Można to zrobić na dwa sposoby:
+* Wewnątrz aplikacji: Przechodząc do sekcji "Ustawienia" i wybierając opcję "Usuń konto".
+* Drogą mailową: Wysyłając wiadomość z adresu e-mail powiązanego z kontem na adres: forfourone@gmail.com. Prośba zostanie rozpatrzona w ciągu 7 dni roboczych.
+Jakie dane zostaną usunięte?
+Po potwierdzeniu chęci usunięcia konta przez dewelopera ForFourOne App Development, z naszej bazy danych (Supabase) trwale zostaną usunięte następujące informacje:
+* Adres e-mail użytkownika.
+* Wszystkie zapisane listy zakupów i produkty w spiżarni.
+* Historia wygenerowanych przepisów.
+* Wszystkie zgromadzone Kredyty (ziarenka) – zgodnie z §4 Regulaminu, niewykorzystane Kredyty przepadają bez prawa do zwrotu.
+* Tokeny powiadomień Push.
+Jakie dane zostaną zachowane?
+Ze względu na wymogi prawne i bezpieczeństwo, możemy przechowywać przez okres do 12 miesięcy zanonimizowane logi techniczne (np. daty logowań) oraz historię transakcji finansowych w Google Play (do celów księgowych i reklamacyjnych), które nie pozwalają na bezpośrednią identyfikację osoby.
 
 ## 7. Bezpieczeństwo
 Stosujemy nowoczesne szyfrowanie danych oraz zabezpieczone funkcje serwerowe w celu ochrony Twojej prywatności.
